@@ -1,0 +1,2 @@
+# shakomote
+A freelance agency
